@@ -431,9 +431,6 @@ span {
   background-color: #ececec;
 }
 
-#footer div{
-  display: flex;
-}
 #footer p, #footer a{
   color: rgb(109, 109, 109);
   text-decoration: none;
